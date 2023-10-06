@@ -4,4 +4,4 @@ export default function dashboard() {
         dashboard
       </main>
     )
-  }
+}
